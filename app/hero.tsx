@@ -2,7 +2,7 @@
 export default function Hero (){
     return (
       <div
-        className={`bg-[#F8F8F8] grid grid-cols-1 md:grid-cols-[50%_50%] gap-x-6 mt-6 text-black px-10`}
+        className={`bg-[#F8F8F8] grid grid-cols-1 md:grid-cols-[50%_50%] gap-x-6 mt-6 text-black px-10 mb-6`}
       >
         <div className={`w-[90%]`}>
           <h1 className={`text-4xl font-bold mt-10`}>
@@ -41,12 +41,17 @@ export default function Hero (){
             </h3>
           </div>
           <div>
-            <button className={`px-4 py-3 w-full rounded-sm mt-4 text-white bg-[#EE6F4B]`}>
+            <button
+              className={`px-4 py-3 w-full rounded-sm mt-4 text-white bg-[#EE6F4B]`}
+            >
               Give your furry friend the gift of wholesome nutrition
             </button>
           </div>
         </div>
-        <div>two</div>
+
+        <div className={`mt-10`}>
+          <img src="/c.png" alt="" className={`w-[480px]`} />
+        </div>
       </div>
     );
 }
