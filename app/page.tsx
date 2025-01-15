@@ -1,6 +1,7 @@
 "use client";
 
 import Navbar from "./come";
+import Footer from "./footer";
 import Hero from "./hero";
 import Hero2 from "./hero2";
 
@@ -13,6 +14,7 @@ export default function HomePage() {
       <Navbar />
       <Hero/>
       <Hero2/>
+      <Footer/>
     </div>
   );
 }
