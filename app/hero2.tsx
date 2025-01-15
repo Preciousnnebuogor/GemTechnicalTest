@@ -7,7 +7,19 @@ return (
     <div className={`mt-10`}>
       <img src="/dog.png" alt="" className={`w-[480px]`} />
     </div>
-    <div>two</div>
+    <div className={`mt-20`}>
+      <h1 className={`text-3xl font-bold`}>
+        Improve overall <br /> gastrointestinal health for <br /> better
+        nutrient absorption
+      </h1>
+      <h6 className={`mt-3 px-4`}>
+        Through rigorous scientific studies and consultations with
+        veterinarians, we have created a breakthrough formula exclusively
+        tailored to combat the health challenges prevalent in dogs. A staggering
+        91% of our customers have reported significant improvements in their
+        dogs' health after incorporating our product into their diet.
+      </h6>
+    </div>
   </div>
 );
 
