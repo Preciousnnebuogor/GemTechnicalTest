@@ -2,6 +2,7 @@
 
 import Navbar from "./come";
 import Hero from "./hero";
+import Hero2 from "./hero2";
 
 
 
@@ -11,6 +12,7 @@ export default function HomePage() {
     <div className="w-full bg-white h-screen">
       <Navbar />
       <Hero/>
+      <Hero2/>
     </div>
   );
 }

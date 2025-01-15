@@ -2,9 +2,9 @@
 export default function Hero (){
     return (
       <div
-        className={`bg-[#F8F8F8] grid grid-cols-1 md:grid-cols-[50%_50%] gap-x-6 mt-6 text-black px-10 mb-6`}
+        className={`bg-[#F8F8F8] grid grid-cols-1 md:grid-cols-[50%_50%] gap-x-6 mt-6 text-black px-10 `}
       >
-        <div className={`w-[90%]`}>
+        <div className={`w-[90%] mb-10 `}>
           <h1 className={`text-4xl font-bold mt-10`}>
             Nutrition is the foundation for <br /> longer, healthier lives in
             dogs.
