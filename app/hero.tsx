@@ -10,34 +10,34 @@ export default function Hero (){
             dogs.
           </h1>
           <h3 className={`mt-3`}>
-            Invest in your dog's future with our scientifically formulated
+            {`Invest in your dog's future with our scientifically formulated
             superfood-powered supplements. Give them the nutrition they deserve
             and watch them thrive with vitality, energy, and the joy of a
-            longer, healthier life.
+            longer, healthier life.`}
           </h3>
           <h3 className={`font-bold mt-4`}>Key Points:</h3>
 
           <div className={`flex space-x-6 mt-4 border-b-2 border-gray-200`}>
             <h1 className={`text-3xl font-bold text-[#EE6F4B]`}>67%</h1>
             <h3 className={`text-base`}>
-              Dogs choose our dog food over leading brands because of its real
-              functional ingredients and delicious flavor.
+              {`Dogs choose our dog food over leading brands because of its real
+              functional ingredients and delicious flavor.`}
             </h3>
           </div>
 
           <div className={`flex space-x-6 mt-4 border-b-2 border-gray-200`}>
             <h1 className={`text-3xl font-bold text-[#EE6F4B]`}>84%</h1>
             <h3 className={`w-[90%]`}>
-              Our dog food provides superior nutrition and a patented probiotic
-              for optimal nutrient absorption.
+              {`Our dog food provides superior nutrition and a patented probiotic
+              for optimal nutrient absorption.`}
             </h3>
           </div>
 
           <div className={`flex space-x-6 mt-4`}>
             <h1 className={`text-3xl font-bold text-[#EE6F4B]`}>92%</h1>
             <h3 className={` `}>
-              Our dog food's high protein and fat digestibility <br />{" "}
-              contribute to ideal stool quality.
+              {`Our dog food's high protein and fat digestibility <br />{" "}
+              contribute to ideal stool quality.`}
             </h3>
           </div>
           <div>

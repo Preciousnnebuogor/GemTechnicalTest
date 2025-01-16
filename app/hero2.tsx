@@ -9,15 +9,14 @@ return (
     </div>
     <div className={`mt-20`}>
       <h1 className={`text-3xl font-bold md:w-[70%]`}>
-        Improve overall gastrointestinal health for better
-        nutrient absorption
+        Improve overall gastrointestinal health for better nutrient absorption
       </h1>
       <h6 className={`mt-3 px-4`}>
-        Through rigorous scientific studies and consultations with
+        {`Through rigorous scientific studies and consultations with
         veterinarians, we have created a breakthrough formula exclusively
         tailored to combat the health challenges prevalent in dogs. A staggering
         91% of our customers have reported significant improvements in their
-        dogs' health after incorporating our product into their diet.
+        dogs' health after incorporating our product into their diet.`}
       </h6>
     </div>
   </div>

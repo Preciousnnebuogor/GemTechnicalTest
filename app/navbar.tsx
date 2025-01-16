@@ -71,7 +71,7 @@ export default function Navbar() {
 
       <div className="flex items-center justify-center mt-4">
         <button className="px-6 md:px-24 py-3 rounded-sm text-white bg-[#EE6F4B]">
-          Get your dog's healthy meal today!
+          {`Get your dog's healthy meal today!`}
         </button>
       </div>
 
