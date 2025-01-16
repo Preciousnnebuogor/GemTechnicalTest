@@ -8,8 +8,8 @@ return (
       <img src="/dog.png" alt="" className={`w-[480px]`} />
     </div>
     <div className={`mt-20`}>
-      <h1 className={`text-3xl font-bold`}>
-        Improve overall <br /> gastrointestinal health for <br /> better
+      <h1 className={`text-3xl font-bold md:w-[70%]`}>
+        Improve overall gastrointestinal health for better
         nutrient absorption
       </h1>
       <h6 className={`mt-3 px-4`}>

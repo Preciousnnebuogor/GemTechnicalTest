@@ -1,9 +1,10 @@
 "use client";
 
-import Navbar from "./come";
+import Navbar from "./navbar";
 import Footer from "./footer";
 import Hero from "./hero";
 import Hero2 from "./hero2";
+
 
 
 
