@@ -4,7 +4,7 @@ export default function Footer() {
     <div
       className={`bg-white grid grid-cols-1 md:grid-cols-[50%_50%] gap-x-6  text-black px-10 `}
     >
-      <div className={`mt-20`}>
+      <div className={`mt-20 `}>
         <h1 className={`text-3xl font-bold md:w-[70%]`}>
           {`Prebiotics nourish the beneficial gut bacteria, supporting digestive
           health`}
@@ -17,7 +17,7 @@ export default function Footer() {
         </h6>
       </div>
 
-      <div className={`mt-10`}>
+      <div className={`mt-10 mb-10`}>
         <img src="/image.png" alt="" className={`w-[480px]`} />
       </div>
     </div>
