@@ -6,8 +6,8 @@ export default function Hero (){
       >
         <div className={`w-[90%] mb-10 `}>
           <h1 className={`text-4xl font-bold mt-10`}>
-            {` Nutrition is the foundation for <br /> longer, healthier lives in
-            dogs.`}
+             Nutrition is the foundation for <br /> longer, healthier lives in
+            dogs.
           </h1>
           <h3 className={`mt-3`}>
             {`Invest in your dog's future with our scientifically formulated
