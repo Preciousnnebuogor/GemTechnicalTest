@@ -11,7 +11,7 @@ import Hero2 from "./hero2";
 
 export default function HomePage() {
   return (
-    <div className="w-full bg-white h-screen">
+    <div className="w-full bg-white ">
       <Navbar />
       <Hero/>
       <Hero2/>

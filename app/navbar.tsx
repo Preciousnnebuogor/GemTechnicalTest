@@ -2,7 +2,7 @@
 
 export default function Navbar() {
   return (
-    <div className="bg-white text-black px-4 md:px-10">
+    <div className="bg-white  text-black px-4 md:px-10">
       <div className="flex items-center justify-center text-center">
         <h1 className="text-2xl font-bold mt-10">What makes us different</h1>
       </div>
@@ -44,7 +44,7 @@ export default function Navbar() {
         </div>
 
         <div className="flex flex-col items-center md:items-start space-y-8">
-          {/* Made Fresh Section */}
+          
           <div className="flex space-x-2 items-center">
             <img src="/3.png" alt="Made Fresh" className="w-[60px]" />
             <div className="text-center md:text-left">
