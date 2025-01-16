@@ -6,14 +6,14 @@ export default function Footer() {
     >
       <div className={`mt-20`}>
         <h1 className={`text-3xl font-bold md:w-[70%]`}>
-          Prebiotics nourish the beneficial gut bacteria, supporting digestive
-          health
+          {`Prebiotics nourish the beneficial gut bacteria, supporting digestive
+          health`}
         </h1>
         <h6 className={`mt-3 `}>
-          Our dog food formula contains carefully selected prebiotics that work
+          {` Our dog food formula contains carefully selected prebiotics that work
           in harmony with the gut microbiota, providing the necessary nutrients
           for the growth and maintenance of beneficial bacteria, ultimately
-          supporting digestive health.
+          supporting digestive health.`}
         </h6>
       </div>
 
