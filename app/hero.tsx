@@ -36,7 +36,7 @@ export default function Hero (){
           <div className={`flex space-x-6 mt-4`}>
             <h1 className={`text-3xl font-bold text-[#EE6F4B]`}>92%</h1>
             <h3 className={` `}>
-              {`Our dog food's high protein and fat digestibility <br />{" "}
+              {`Our dog food's high protein and fat digestibility 
               contribute to ideal stool quality.`}
             </h3>
           </div>
